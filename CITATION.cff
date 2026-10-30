@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: Fretwork Guitar Dataset
+message: If you use this dataset, please credit Fretwork.
+type: dataset
+authors:
+  - name: True Music School
+    website: https://guitarfretwork.com
+repository-code: https://github.com/sideprojectsforme-commits/fretwork-guitar-dataset
+url: https://guitarfretwork.com/data/
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2026-10-30
+keywords:
+  - guitar
+  - music theory
+  - chords
+  - scales
+  - music information retrieval
