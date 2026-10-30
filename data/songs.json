@@ -1,0 +1,1318 @@
+[
+  {
+    "slug": "amazing-grace",
+    "title": "Amazing Grace",
+    "key": "G major",
+    "time_signature": "3/4",
+    "difficulty": "Easy",
+    "chords": [
+      "G",
+      "C",
+      "D"
+    ],
+    "chord_count": 3,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "angels-we-have-heard-on-high",
+    "title": "Angels We Have Heard on High",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "Em",
+      "Am"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "auld-lang-syne",
+    "title": "Auld Lang Syne",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "Em"
+    ],
+    "chord_count": 4,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "aura-lee",
+    "title": "Aura Lee",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "Em",
+      "A7"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "away-in-a-manger",
+    "title": "Away in a Manger",
+    "key": "G",
+    "time_signature": "3/4",
+    "difficulty": "Easy",
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "Em"
+    ],
+    "chord_count": 4,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "barbara-allen",
+    "title": "Barbara Allen",
+    "key": "Am",
+    "time_signature": "3/4",
+    "difficulty": "Improver",
+    "chords": [
+      "Am",
+      "C",
+      "G",
+      "Em",
+      "F",
+      "D"
+    ],
+    "chord_count": 6,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "blow-the-man-down",
+    "title": "Blow the Man Down",
+    "key": "G",
+    "time_signature": "6/8",
+    "difficulty": "Easy",
+    "chords": [
+      "G",
+      "C",
+      "D"
+    ],
+    "chord_count": 3,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "buffalo-gals",
+    "title": "Buffalo Gals",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "G",
+      "D"
+    ],
+    "chord_count": 2,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "careless-love",
+    "title": "Careless Love",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "G",
+      "D",
+      "C",
+      "E7",
+      "A7"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "corrina-corrina",
+    "title": "Corrina, Corrina",
+    "key": "C",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "C",
+      "F",
+      "G",
+      "Am",
+      "E7"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "cotton-eyed-joe",
+    "title": "Cotton-Eyed Joe",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "G",
+      "C",
+      "D"
+    ],
+    "chord_count": 3,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "danny-boy",
+    "title": "Danny Boy",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Harder",
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "Em",
+      "Am",
+      "D"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "deck-the-halls",
+    "title": "Deck the Halls",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "Em",
+      "Am"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "down-by-the-riverside",
+    "title": "Down by the Riverside",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "G",
+      "C",
+      "D"
+    ],
+    "chord_count": 3,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "down-in-the-valley",
+    "title": "Down in the Valley",
+    "key": "G",
+    "time_signature": "3/4",
+    "difficulty": "Easy",
+    "chords": [
+      "G",
+      "D"
+    ],
+    "chord_count": 2,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "drunken-sailor",
+    "title": "Drunken Sailor",
+    "key": "Am",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "Am",
+      "G"
+    ],
+    "chord_count": 2,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "erie-canal",
+    "title": "Erie Canal (Low Bridge)",
+    "key": "Am",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "Am",
+      "Dm",
+      "E",
+      "E7",
+      "C",
+      "G"
+    ],
+    "chord_count": 6,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "frankie-and-johnny",
+    "title": "Frankie and Johnny",
+    "key": "C",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "C",
+      "E7",
+      "F",
+      "G"
+    ],
+    "chord_count": 4,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "give-me-that-old-time-religion",
+    "title": "Give Me That Old Time Religion",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "G",
+      "C",
+      "D"
+    ],
+    "chord_count": 3,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "go-tell-it-on-the-mountain",
+    "title": "Go Tell It on the Mountain",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "Em",
+      "Am"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "god-rest-ye-merry-gentlemen",
+    "title": "God Rest Ye Merry, Gentlemen",
+    "key": "Em",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "Em",
+      "Am",
+      "D",
+      "G",
+      "C",
+      "B7"
+    ],
+    "chord_count": 6,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "good-king-wenceslas",
+    "title": "Good King Wenceslas",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "Em",
+      "Am"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "greensleeves",
+    "title": "Greensleeves",
+    "key": "A minor",
+    "time_signature": "3/4",
+    "difficulty": "Improver",
+    "chords": [
+      "Am",
+      "C",
+      "G",
+      "E7",
+      "F"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "hark-the-herald-angels-sing",
+    "title": "Hark! The Herald Angels Sing",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "Em",
+      "Am"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "haul-away-joe",
+    "title": "Haul Away Joe",
+    "key": "Am",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "Am",
+      "G",
+      "C"
+    ],
+    "chord_count": 3,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "he-s-got-the-whole-world",
+    "title": "He's Got the Whole World in His Hands",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "G",
+      "D",
+      "C"
+    ],
+    "chord_count": 3,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "hesitation-blues",
+    "title": "Hesitation Blues",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "E7",
+      "A7"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "home-on-the-range",
+    "title": "Home on the Range",
+    "key": "G",
+    "time_signature": "3/4",
+    "difficulty": "Improver",
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "Em",
+      "A7"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "house-of-the-rising-sun",
+    "title": "House of the Rising Sun",
+    "key": "A minor",
+    "time_signature": "6/8",
+    "difficulty": "Improver",
+    "chords": [
+      "Am",
+      "C",
+      "D",
+      "F",
+      "E"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "hush-little-baby",
+    "title": "Hush, Little Baby",
+    "key": "C",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "C",
+      "G"
+    ],
+    "chord_count": 2,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "jingle-bells",
+    "title": "Jingle Bells",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "Em",
+      "Am"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "john-henry",
+    "title": "John Henry",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "G",
+      "C",
+      "D"
+    ],
+    "chord_count": 3,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "joy-to-the-world",
+    "title": "Joy to the World",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "Em",
+      "Am"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "keep-on-the-sunny-side",
+    "title": "Keep on the Sunny Side",
+    "key": "C",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "C",
+      "F",
+      "G",
+      "G7"
+    ],
+    "chord_count": 4,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "kumbaya",
+    "title": "Kumbaya",
+    "key": "C",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "C",
+      "F",
+      "G",
+      "Am",
+      "Em"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "little-brown-jug",
+    "title": "Little Brown Jug",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "G",
+      "C",
+      "D"
+    ],
+    "chord_count": 3,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "make-me-a-pallet-on-the-floor",
+    "title": "Make Me a Pallet on the Floor",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Harder",
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "E7",
+      "A7",
+      "Em"
+    ],
+    "chord_count": 6,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "man-of-constant-sorrow",
+    "title": "Man of Constant Sorrow",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "Em"
+    ],
+    "chord_count": 4,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "mary-had-a-little-lamb",
+    "title": "Mary Had a Little Lamb",
+    "key": "C",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "C",
+      "G"
+    ],
+    "chord_count": 2,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "michael-row-the-boat-ashore",
+    "title": "Michael, Row the Boat Ashore",
+    "key": "C",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "C",
+      "F",
+      "G",
+      "Am",
+      "Em"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "midnight-special",
+    "title": "Midnight Special",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "G",
+      "C",
+      "D"
+    ],
+    "chord_count": 3,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "molly-malone",
+    "title": "Molly Malone",
+    "key": "G",
+    "time_signature": "3/4",
+    "difficulty": "Easy",
+    "chords": [
+      "G",
+      "Em",
+      "Am",
+      "D",
+      "C"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "nobody-knows-the-trouble-i-ve-seen",
+    "title": "Nobody Knows the Trouble I've Seen",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "Em",
+      "Am"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "nobody-knows-you-when-you-re-down-and-out",
+    "title": "Nobody Knows You When You're Down and Out",
+    "key": "C",
+    "time_signature": "4/4",
+    "difficulty": "Harder",
+    "chords": [
+      "C",
+      "E7",
+      "Am",
+      "F",
+      "G",
+      "D"
+    ],
+    "chord_count": 6,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "o-come-all-ye-faithful",
+    "title": "O Come, All Ye Faithful",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "Em",
+      "Am",
+      "D"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "o-little-town-of-bethlehem",
+    "title": "O Little Town of Bethlehem",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "Em",
+      "Am"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "oh-my-darling-clementine",
+    "title": "Oh My Darling, Clementine",
+    "key": "G",
+    "time_signature": "3/4",
+    "difficulty": "Easy",
+    "chords": [
+      "G",
+      "C",
+      "D"
+    ],
+    "chord_count": 3,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "oh-susanna",
+    "title": "Oh! Susanna",
+    "key": "G major",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "G",
+      "C",
+      "D"
+    ],
+    "chord_count": 3,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "old-macdonald-had-a-farm",
+    "title": "Old MacDonald Had a Farm",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "G",
+      "C",
+      "D"
+    ],
+    "chord_count": 3,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "on-top-of-old-smoky",
+    "title": "On Top of Old Smoky",
+    "key": "G",
+    "time_signature": "3/4",
+    "difficulty": "Easy",
+    "chords": [
+      "G",
+      "C",
+      "D"
+    ],
+    "chord_count": 3,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "pay-me-my-money-down",
+    "title": "Pay Me My Money Down",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "G",
+      "C",
+      "D"
+    ],
+    "chord_count": 3,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "polly-wolly-doodle",
+    "title": "Polly Wolly Doodle",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "G",
+      "D"
+    ],
+    "chord_count": 2,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "red-river-valley",
+    "title": "Red River Valley",
+    "key": "G major",
+    "time_signature": "3/4",
+    "difficulty": "Easy",
+    "chords": [
+      "G",
+      "C",
+      "D7"
+    ],
+    "chord_count": 3,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "row-row-row-your-boat",
+    "title": "Row, Row, Row Your Boat",
+    "key": "C",
+    "time_signature": "6/8",
+    "difficulty": "Easy",
+    "chords": [
+      "C",
+      "G7",
+      "G"
+    ],
+    "chord_count": 3,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "scarborough-fair",
+    "title": "Scarborough Fair",
+    "key": "A minor (Dorian)",
+    "time_signature": "3/4",
+    "difficulty": "Improver",
+    "chords": [
+      "Am",
+      "C",
+      "G",
+      "Em",
+      "D"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "shady-grove",
+    "title": "Shady Grove",
+    "key": "Am",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "Am",
+      "G",
+      "C",
+      "Em"
+    ],
+    "chord_count": 4,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "she-ll-be-coming-round-the-mountain",
+    "title": "She'll Be Coming Round the Mountain",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "G",
+      "C",
+      "D"
+    ],
+    "chord_count": 3,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "shenandoah",
+    "title": "Shenandoah",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "Em",
+      "Am"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "silent-night",
+    "title": "Silent Night",
+    "key": "C",
+    "time_signature": "3/4",
+    "difficulty": "Easy",
+    "chords": [
+      "C",
+      "F",
+      "G",
+      "Am"
+    ],
+    "chord_count": 4,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "sitting-on-top-of-the-world",
+    "title": "Sitting on Top of the World",
+    "key": "C",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "C",
+      "F",
+      "G",
+      "E7",
+      "Am"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "skip-to-my-lou",
+    "title": "Skip to My Lou",
+    "key": "C",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "C",
+      "G7",
+      "G"
+    ],
+    "chord_count": 3,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "st-james-infirmary",
+    "title": "St James Infirmary",
+    "key": "A minor",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "Am",
+      "Dm",
+      "E7",
+      "C"
+    ],
+    "chord_count": 4,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "st-louis-blues",
+    "title": "St. Louis Blues",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Harder",
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "E7",
+      "Am"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "stagger-lee",
+    "title": "Stagger Lee",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "G",
+      "C",
+      "D"
+    ],
+    "chord_count": 3,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "steal-away",
+    "title": "Steal Away",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "Em"
+    ],
+    "chord_count": 4,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "streets-of-laredo",
+    "title": "Streets of Laredo",
+    "key": "G",
+    "time_signature": "3/4",
+    "difficulty": "Improver",
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "Em",
+      "Am"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "swing-low-sweet-chariot",
+    "title": "Swing Low, Sweet Chariot",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "G",
+      "C",
+      "D"
+    ],
+    "chord_count": 3,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "the-first-noel",
+    "title": "The First Noel",
+    "key": "G",
+    "time_signature": "3/4",
+    "difficulty": "Improver",
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "Em",
+      "Am"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "the-parting-glass",
+    "title": "The Parting Glass",
+    "key": "Am",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "Am",
+      "C",
+      "G",
+      "F",
+      "Em",
+      "D"
+    ],
+    "chord_count": 6,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "the-water-is-wide",
+    "title": "The Water Is Wide",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "Em",
+      "Am"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "the-wellerman",
+    "title": "The Wellerman",
+    "key": "Am",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "Am",
+      "C",
+      "G",
+      "Em",
+      "F",
+      "E"
+    ],
+    "chord_count": 6,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "this-old-man",
+    "title": "This Old Man",
+    "key": "C",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "C",
+      "G",
+      "F"
+    ],
+    "chord_count": 3,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "tom-dooley",
+    "title": "Tom Dooley",
+    "key": "D",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "D",
+      "A7"
+    ],
+    "chord_count": 2,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "trouble-in-mind",
+    "title": "Trouble in Mind",
+    "key": "C",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "C",
+      "E7",
+      "F",
+      "G",
+      "A7"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "twinkle-twinkle-little-star",
+    "title": "Twinkle, Twinkle, Little Star",
+    "key": "C",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "C",
+      "F",
+      "G"
+    ],
+    "chord_count": 3,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "wade-in-the-water",
+    "title": "Wade in the Water",
+    "key": "Am",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "Am",
+      "Dm",
+      "E",
+      "E7"
+    ],
+    "chord_count": 4,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "wayfaring-stranger",
+    "title": "Wayfaring Stranger",
+    "key": "A minor",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "Am",
+      "C",
+      "F",
+      "E",
+      "G"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "we-wish-you-a-merry-christmas",
+    "title": "We Wish You a Merry Christmas",
+    "key": "G",
+    "time_signature": "3/4",
+    "difficulty": "Improver",
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "Em",
+      "Am"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "were-you-there",
+    "title": "Were You There",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "Em",
+      "Am"
+    ],
+    "chord_count": 5,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "what-child-is-this",
+    "title": "What Child Is This",
+    "key": "Em",
+    "time_signature": "3/4",
+    "difficulty": "Improver",
+    "chords": [
+      "Em",
+      "D",
+      "G",
+      "C",
+      "Am",
+      "B7"
+    ],
+    "chord_count": 6,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "when-johnny-comes-marching-home",
+    "title": "When Johnny Comes Marching Home",
+    "key": "Am",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "Am",
+      "Dm",
+      "E",
+      "E7",
+      "C",
+      "G"
+    ],
+    "chord_count": 6,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "when-the-saints-go-marching-in",
+    "title": "When the Saints Go Marching In",
+    "key": "G major",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "G7"
+    ],
+    "chord_count": 4,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "whiskey-in-the-jar",
+    "title": "Whiskey in the Jar",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "G",
+      "Em",
+      "C",
+      "D"
+    ],
+    "chord_count": 4,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "wildwood-flower",
+    "title": "Wildwood Flower",
+    "key": "C major",
+    "time_signature": "4/4",
+    "difficulty": "Improver",
+    "chords": [
+      "C",
+      "F",
+      "G7"
+    ],
+    "chord_count": 3,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "will-the-circle-be-unbroken",
+    "title": "Will the Circle Be Unbroken",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "G",
+      "C",
+      "D"
+    ],
+    "chord_count": 3,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "worried-man-blues",
+    "title": "Worried Man Blues",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "G",
+      "C",
+      "D"
+    ],
+    "chord_count": 3,
+    "tradition": "traditional / public domain"
+  },
+  {
+    "slug": "yankee-doodle",
+    "title": "Yankee Doodle",
+    "key": "G",
+    "time_signature": "4/4",
+    "difficulty": "Easy",
+    "chords": [
+      "G",
+      "C",
+      "D"
+    ],
+    "chord_count": 3,
+    "tradition": "traditional / public domain"
+  }
+]

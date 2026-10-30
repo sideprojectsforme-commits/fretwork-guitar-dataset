@@ -1,0 +1,51 @@
+{
+  "name": "Fretwork Guitar Dataset",
+  "version": "1.0.0",
+  "released": "2026-10-30",
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Guitar data from Fretwork (https://guitarfretwork.com), CC BY 4.0.",
+  "homepage": "https://guitarfretwork.com/data/",
+  "repository": "https://github.com/sideprojectsforme-commits/fretwork-guitar-dataset",
+  "tuning": {
+    "name": "standard",
+    "strings": [
+      "E",
+      "A",
+      "D",
+      "G",
+      "B",
+      "e"
+    ],
+    "midi": [
+      40,
+      45,
+      50,
+      55,
+      59,
+      64
+    ],
+    "order": "low E string first in chord frets"
+  },
+  "verification": "Every chord shape is checked against the chord it claims to be. 373 of 373 pass. Run: node verify.mjs",
+  "files": [
+    {
+      "path": "chords.json",
+      "records": 219,
+      "shapes": 373,
+      "barre_shapes": 205,
+      "description": "Guitar chord shapes with fret positions, notes and intervals"
+    },
+    {
+      "path": "scales.json",
+      "records": 156,
+      "description": "13 scale types in all 12 keys with fretboard positions"
+    },
+    {
+      "path": "songs.json",
+      "records": 87,
+      "description": "Traditional and public-domain song metadata"
+    }
+  ],
+  "huggingface": "https://huggingface.co/datasets/HooshangBakht/fretwork-guitar-dataset"
+}
