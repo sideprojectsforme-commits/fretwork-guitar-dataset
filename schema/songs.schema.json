@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Fretwork song record",
+  "description": "Metadata only. No lyrics, melodies or notation.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["slug", "title", "key", "chords"],
+    "properties": {
+      "slug": { "type": "string" },
+      "title": { "type": "string" },
+      "key": { "type": "string", "description": "Key the arrangement sits in, e.g. 'G major'" },
+      "time_signature": { "type": "string", "e.g.": "4/4" },
+      "difficulty": { "type": "string", "enum": ["Easy", "Improver", "Harder"] },
+      "chords": { "type": "array", "items": { "type": "string" }, "description": "Chords the song uses" },
+      "chord_count": { "type": "integer", "description": "Number of distinct chords" },
+      "tradition": { "type": "string" }
+    }
+  }
+}

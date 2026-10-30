@@ -1,0 +1,87 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Fretwork scale record",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "root",
+      "type",
+      "intervals",
+      "notes",
+      "positions"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "description": "Stable identifier, e.g. 'a-minor-pentatonic'"
+      },
+      "root": {
+        "type": "string"
+      },
+      "type": {
+        "type": "string",
+        "description": "Scale key, e.g. 'minor pentatonic'"
+      },
+      "type_name": {
+        "type": "string",
+        "description": "Display name, e.g. 'Minor pentatonic'"
+      },
+      "intervals": {
+        "type": "array",
+        "items": {
+          "type": "integer"
+        },
+        "description": "Semitones above the root"
+      },
+      "note_count": {
+        "type": "integer"
+      },
+      "notes": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "positions": {
+        "type": "array",
+        "description": "One entry per string, ordered as a tab reads: high e first, low E last.",
+        "items": {
+          "type": "object",
+          "required": [
+            "string_number",
+            "string",
+            "frets"
+          ],
+          "properties": {
+            "string_number": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 6,
+              "description": "1 = high e, 6 = low E"
+            },
+            "string": {
+              "type": "string",
+              "description": "String name; lowercase 'e' is the high E"
+            },
+            "frets": {
+              "type": "array",
+              "items": {
+                "type": "integer"
+              },
+              "description": "Playable frets 0-12 on this string"
+            },
+            "root_frets": {
+              "type": "array",
+              "items": {
+                "type": "integer"
+              },
+              "description": "Which of those frets are the root note"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Fretwork chord record",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "symbol",
+      "root",
+      "quality",
+      "notes",
+      "shapes"
+    ],
+    "properties": {
+      "symbol": {
+        "type": "string",
+        "description": "Chord name as written, e.g. 'Fmaj7'"
+      },
+      "root": {
+        "type": "string",
+        "description": "Root note letter with any accidental"
+      },
+      "quality": {
+        "type": "string",
+        "description": "Quality suffix, e.g. 'm7'. 'major' for plain major."
+      },
+      "quality_name": {
+        "type": "string",
+        "description": "Quality in words, e.g. 'minor 7th'"
+      },
+      "intervals": {
+        "type": [
+          "array",
+          "null"
+        ],
+        "items": {
+          "type": "integer"
+        },
+        "description": "Semitones above the root. Major is [0,4,7]. Null for slash chords."
+      },
+      "notes": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "Note names in the chord"
+      },
+      "shape_count": {
+        "type": "integer"
+      },
+      "lesson_url": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "description": "Free lesson page on guitarfretwork.com, when one exists"
+      },
+      "shapes": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": [
+            "position",
+            "frets",
+            "fret_string"
+          ],
+          "properties": {
+            "position": {
+              "type": "string",
+              "description": "Where on the neck, e.g. 'Open position', 'Barre shape, root on the 6th string'"
+            },
+            "frets": {
+              "type": "array",
+              "minItems": 6,
+              "maxItems": 6,
+              "items": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "description": "Fret per string, low E first. null = not played, 0 = open."
+            },
+            "fret_string": {
+              "type": "string",
+              "description": "Same shape written compactly, e.g. 'x32010'"
+            },
+            "root_string": {
+              "type": [
+                "integer",
+                "null"
+              ],
+              "description": "Which string carries the root, 6 = low E"
+            },
+            "root_fret": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "barre": {
+              "type": "boolean",
+              "description": "True only when no string is open and the lowest fretted fret is held across two or more strings. Derived from the shape, not its name."
+            },
+            "open": {
+              "type": "boolean",
+              "description": "True if any string is played open"
+            },
+            "shape_family": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "enum": [
+                "open",
+                "E-shape",
+                "A-shape",
+                null
+              ],
+              "description": "Which movable shape family this comes from, or 'open'. Null when not known."
+            }
+          }
+        }
+      }
+    }
+  }
+}
